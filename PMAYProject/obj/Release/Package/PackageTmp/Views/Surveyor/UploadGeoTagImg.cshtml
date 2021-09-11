@@ -1,0 +1,163 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_SurveyorLayout.cshtml";
+}
+
+<div class="row">
+    <!-- Student Attendence Area Start Here -->
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="heading-layout1">
+                    <div class="item-title">
+                        <h3>All Beneficiary  List</h3>
+                    </div>
+                </div>
+                <form class="mg-b-20">
+                    <div class="row gutters-8">
+                        <div class="col-lg-2 col-12 form-group">
+                            <select class="select2 form-control">
+                                <option value="tomatoes">Select Ward</option>
+                                <option value="month1">1</option>
+                                <option value="month2">2</option>
+                                <option value="month3">3</option>
+                                <option value="month4">4</option>
+                                <option value="month5">5</option>
+                                <option value="month6">6</option>
+                                <option value="month7">7</option>
+                                <option value="month8">8</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-12 form-group">
+                            <select class="select2 form-control">
+                                <option value="tomatoes">Select Pending Status</option>
+                                <option value="month1">Level-1</option>
+                                <option value="month2">Level-1</option>
+                                <option value="month3">Level-1</option>
+                                <option value="month4">Level-1</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-12 form-group">
+                            <select class="select2 form-control">
+                                <option value="tomatoes">Select Approved Status</option>
+                                <option value="month1">Level-1</option>
+                                <option value="month2">Level-1</option>
+                                <option value="month3">Level-1</option>
+                                <option value="month4">Level-1</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-2 col-12 form-group">
+                            <button type="submit" class="fw-btn-fill btn-gradient-yellow">SEARCH</button>
+                        </div>
+                    </div>
+                </form>
+
+                <div class="table-responsive">
+                    <table class="table display data-table text-nowrap">
+                        <thead>
+                            <tr>
+                                <th>
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input checkAll">
+                                        <label class="form-check-label">Sr.No.</label>
+                                    </div>
+                                </th>
+                                <th> Name</th>
+                                <th>Ward</th>
+                                <th>Beneficiary Code</th>
+                                <th>Aadhar Id</th>
+                                <th>DOB</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody class="styletd">
+                            <tr>
+                                <td>
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input">
+                                        <label class="form-check-label">1</label>
+                                    </div>
+                                </td>
+                                <td>Ankit Mishra</td>
+                                <td>25</td>
+                                <td>2522452522525A</td>
+                                <td>255452455555</td>
+                                <td>12/06/2020</td>
+                                <th class="text-danger">Pending</th>
+                                <td><i class="fas fa-trash text-danger actionbtn"></i></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input">
+                                        <label class="form-check-label">1</label>
+                                    </div>
+                                </td>
+                                <td>Ankit Mishra</td>
+                                <td>25</td>
+                                <td>2522452522525A</td>
+                                <td>255452455555</td>
+                                <td>12/06/2020</td>
+                                <th class="text-danger">Pending</th>
+                                <td><i class="fas fa-trash text-danger actionbtn"></i></td>
+                                <td><i class="fas fa-trash text-danger actionbtn"></i></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input">
+                                        <label class="form-check-label">1</label>
+                                    </div>
+                                </td>
+                                <td>Ankit Mishra</td>
+                                <td>25</td>
+                                <td>2522452522525A</td>
+                                <td>255452455555</td>
+                                <td>12/06/2020</td>
+
+                                <th class="text-success">Completed</th>
+                                <td><i class="fas fa-trash text-danger actionbtn"></i></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input">
+                                        <label class="form-check-label">1</label>
+                                    </div>
+                                </td>
+                                <td>Ankit Mishra</td>
+                                <td>25</td>
+                                <td>2522452522525A</td>
+                                <td>255452455555</td>
+                                <td>12/06/2020</td>
+
+                                <th class="text-success">Completed</th>
+                                <td><i class="fas fa-trash text-danger actionbtn"></i></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input">
+                                        <label class="form-check-label">1</label>
+                                    </div>
+                                </td>
+                                <td>Ankit Mishra</td>
+                                <td>25</td>
+                                <td>2522452522525A</td>
+                                <td>255452455555</td>
+                                <td>12/06/2020</td>
+                                <th class="text-danger">Pending</th>
+                                <td><i class="fas fa-trash text-danger actionbtn"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="col-lg-2 col-12 form-group">
+                        <button type="submit" class="fw-btn-fill btn-gradient-yellow">Download</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

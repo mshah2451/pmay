@@ -1,0 +1,17 @@
+F:\PMAYS\Application.Service\bin\Release\Application.Service.dll
+F:\PMAYS\Application.Service\bin\Release\Application.Service.pdb
+F:\PMAYS\Application.Service\bin\Release\Infra.Data.dll
+F:\PMAYS\Application.Service\bin\Release\PMAY.Domain.dll
+F:\PMAYS\Application.Service\bin\Release\PMAY.Dto.dll
+F:\PMAYS\Application.Service\bin\Release\Unity.Abstractions.dll
+F:\PMAYS\Application.Service\bin\Release\Unity.Container.dll
+F:\PMAYS\Application.Service\bin\Release\Infra.Data.pdb
+F:\PMAYS\Application.Service\bin\Release\PMAY.Domain.pdb
+F:\PMAYS\Application.Service\bin\Release\PMAY.Dto.pdb
+F:\PMAYS\Application.Service\bin\Release\Unity.Abstractions.pdb
+F:\PMAYS\Application.Service\bin\Release\Unity.Container.pdb
+F:\PMAYS\Application.Service\obj\Release\Application.Service.csprojAssemblyReference.cache
+F:\PMAYS\Application.Service\obj\Release\Application.Service.csproj.CoreCompileInputs.cache
+F:\PMAYS\Application.Service\obj\Release\Application.Service.csproj.CopyComplete
+F:\PMAYS\Application.Service\obj\Release\Application.Service.dll
+F:\PMAYS\Application.Service\obj\Release\Application.Service.pdb

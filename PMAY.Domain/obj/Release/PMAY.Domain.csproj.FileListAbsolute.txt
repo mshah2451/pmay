@@ -1,0 +1,6 @@
+F:\PMAYS\PMAY.Domain\bin\Release\PMAY.Domain.dll
+F:\PMAYS\PMAY.Domain\bin\Release\PMAY.Domain.pdb
+F:\PMAYS\PMAY.Domain\obj\Release\PMAY.Domain.csprojAssemblyReference.cache
+F:\PMAYS\PMAY.Domain\obj\Release\PMAY.Domain.csproj.CoreCompileInputs.cache
+F:\PMAYS\PMAY.Domain\obj\Release\PMAY.Domain.dll
+F:\PMAYS\PMAY.Domain\obj\Release\PMAY.Domain.pdb

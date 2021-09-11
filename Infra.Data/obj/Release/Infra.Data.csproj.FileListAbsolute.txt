@@ -1,0 +1,13 @@
+F:\PMAYS\Infra.Data\bin\Release\Infra.Data.dll
+F:\PMAYS\Infra.Data\bin\Release\Infra.Data.pdb
+F:\PMAYS\Infra.Data\bin\Release\PMAY.Domain.dll
+F:\PMAYS\Infra.Data\bin\Release\Unity.Abstractions.dll
+F:\PMAYS\Infra.Data\bin\Release\Unity.Container.dll
+F:\PMAYS\Infra.Data\bin\Release\PMAY.Domain.pdb
+F:\PMAYS\Infra.Data\bin\Release\Unity.Abstractions.pdb
+F:\PMAYS\Infra.Data\bin\Release\Unity.Container.pdb
+F:\PMAYS\Infra.Data\obj\Release\Infra.Data.csprojAssemblyReference.cache
+F:\PMAYS\Infra.Data\obj\Release\Infra.Data.csproj.CoreCompileInputs.cache
+F:\PMAYS\Infra.Data\obj\Release\Infra.Data.csproj.CopyComplete
+F:\PMAYS\Infra.Data\obj\Release\Infra.Data.dll
+F:\PMAYS\Infra.Data\obj\Release\Infra.Data.pdb

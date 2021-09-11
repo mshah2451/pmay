@@ -1,0 +1,17 @@
+D:\.Net Projects\PMAYProject\PMAY.Domain\bin\Debug\PMAY.Domain.dll
+D:\.Net Projects\PMAYProject\PMAY.Domain\bin\Debug\PMAY.Domain.pdb
+D:\.Net Projects\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.csproj.CoreCompileInputs.cache
+D:\.Net Projects\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.dll
+D:\.Net Projects\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.pdb
+F:\PMAYS\PMAY.Domain\bin\Debug\PMAY.Domain.dll
+F:\PMAYS\PMAY.Domain\bin\Debug\PMAY.Domain.pdb
+F:\PMAYS\PMAY.Domain\obj\Debug\PMAY.Domain.csprojAssemblyReference.cache
+F:\PMAYS\PMAY.Domain\obj\Debug\PMAY.Domain.csproj.CoreCompileInputs.cache
+F:\PMAYS\PMAY.Domain\obj\Debug\PMAY.Domain.dll
+F:\PMAYS\PMAY.Domain\obj\Debug\PMAY.Domain.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Domain\bin\Debug\PMAY.Domain.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Domain\bin\Debug\PMAY.Domain.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.csprojAssemblyReference.cache
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.csproj.CoreCompileInputs.cache
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Domain\obj\Debug\PMAY.Domain.pdb

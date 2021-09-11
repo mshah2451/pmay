@@ -1,0 +1,18 @@
+D:\.Net Projects\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.csproj.CoreCompileInputs.cache
+D:\.Net Projects\PMAYProject\PMAY.Dto\bin\Debug\PMAY.Dto.dll
+D:\.Net Projects\PMAYProject\PMAY.Dto\bin\Debug\PMAY.Dto.pdb
+D:\.Net Projects\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.dll
+D:\.Net Projects\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.pdb
+D:\.Net Projects\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.csprojAssemblyReference.cache
+F:\PMAYS\PMAY.Dto\bin\Debug\PMAY.Dto.dll
+F:\PMAYS\PMAY.Dto\bin\Debug\PMAY.Dto.pdb
+F:\PMAYS\PMAY.Dto\obj\Debug\PMAY.Dto.csprojAssemblyReference.cache
+F:\PMAYS\PMAY.Dto\obj\Debug\PMAY.Dto.csproj.CoreCompileInputs.cache
+F:\PMAYS\PMAY.Dto\obj\Debug\PMAY.Dto.dll
+F:\PMAYS\PMAY.Dto\obj\Debug\PMAY.Dto.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Dto\bin\Debug\PMAY.Dto.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Dto\bin\Debug\PMAY.Dto.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.csprojAssemblyReference.cache
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.csproj.CoreCompileInputs.cache
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAY.Dto\obj\Debug\PMAY.Dto.pdb

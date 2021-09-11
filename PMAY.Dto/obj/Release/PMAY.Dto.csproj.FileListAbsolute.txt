@@ -1,0 +1,6 @@
+F:\PMAYS\PMAY.Dto\bin\Release\PMAY.Dto.dll
+F:\PMAYS\PMAY.Dto\bin\Release\PMAY.Dto.pdb
+F:\PMAYS\PMAY.Dto\obj\Release\PMAY.Dto.csprojAssemblyReference.cache
+F:\PMAYS\PMAY.Dto\obj\Release\PMAY.Dto.csproj.CoreCompileInputs.cache
+F:\PMAYS\PMAY.Dto\obj\Release\PMAY.Dto.dll
+F:\PMAYS\PMAY.Dto\obj\Release\PMAY.Dto.pdb

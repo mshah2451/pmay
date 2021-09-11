@@ -1,0 +1,153 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_SurveyorLayout.cshtml";
+}
+
+<!-- Breadcubs Area Start Here -->
+<div class="breadcrumbs-area">
+    <h3>Beneficiary</h3>
+</div>
+<!-- Breadcubs Area End Here -->
+<div class="row">
+    <!-- Student Attendence Area Start Here -->
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="heading-layout1">
+                    <div class="item-title">
+                        <h3>All Beneficiary  List</h3>
+                    </div>
+                </div>
+                <form class="mg-b-20">
+                    <div class="row gutters-8">
+                        <div class="col-lg-2 col-12 form-group">
+                            <select class="select2 form-control" id="txtward">
+                                <option value="tomatoes">Select Ward</option>
+                                @foreach (var ward in Model)
+                                {
+                                    <option value="@ward.id">@ward.Wardname</option>
+                                }
+
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-12 form-group">
+                            <select class="select2 form-control" id="txtpending">
+                                <option value="tomatoes">Select Pending Status</option>
+                                <option value="month1">Level-1</option>
+                                <option value="month2">Level-1</option>
+                                <option value="month3">Level-1</option>
+                                <option value="month4">Level-1</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-12 form-group">
+                            <select class="select2 form-control" id="txtapprove">
+                                <option value="tomatoes">Select Approved Status</option>
+                                <option value="month1">Level-1</option>
+                                <option value="month2">Level-1</option>
+                                <option value="month3">Level-1</option>
+                                <option value="month4">Level-1</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-2 col-12 form-group">
+                            <button type="submit" class="fw-btn-fill btn-gradient-yellow" onclick="Search()">SEARCH</button>
+                        </div>
+                    </div>
+                </form>
+                <div class="table-responsive">
+                    <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper no-footer">
+                        <table class="table display data-table text-nowrap dataTable no-footer" id="DataTables_Table_0" role="grid">
+                            <thead>
+                                <tr role="row">
+
+                                    <th class="" rowspan="1" colspan="1" aria-label="ID">Name</th>
+                                    <th class="sorting_asc" rowspan="1" colspan="1" aria-label="ID">Ward Name</th>
+                                    <th class="sorting_asc" rowspan="1" colspan="1" aria-label="ID">Beneficiary Code</th>
+                                    <th class="sorting_asc" rowspan="1" colspan="1" aria-label="ID">Aadhar ID</th>
+                                    <th class="sorting_asc" rowspan="1" colspan="1" aria-label="ID">Date</th>
+                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="Action : activate to sort column ascending">Action</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="modal" id="annual" role="dialog" style="padding-top: 10px;">
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var data = ""
+        $.ajax({
+            type: "POST",
+            url: '/Surveyor/GetBeneficiaryList',
+            error: function () {
+
+            },
+            success: function (data) {
+                $('#DataTables_Table_0').DataTable({
+                    stateSave: true,
+                    "bDestroy": true,
+                    "ordering": false,
+                    data: data,
+                    columns: [
+                        { data: "Name" }, { data: "WardName" },
+                        { data: "BeneficiaryCode" },
+                        { data: "AdharNo" },
+
+                        {
+                            "data": "CreationDate"
+                        },
+                        {
+                            "title": "Actions",
+                            "data": "id",
+                            "searchable": false,
+                            "sortable": false,
+                            "render": function (data, type, full, meta) {
+                                return `<a class="btn btn-success text-light btn-lg"onclick="ViewDetails(` + data + `)" class="editAsset">ViewDetails</a>  <a class="btn btn-success text-light btn-lg"onclick = "Upload(${"'" + data + "'" + "," + "'" + full.BeneficiaryCode + "'"})" class="editAsset"> Upload</a >`;
+                            }
+                        }
+
+                    ]
+                });
+            }
+        });
+    });
+
+    function Search() {
+        var ward = $('#txtward option:selected').val();
+        var pending = $('#txtpending option:selected').val();
+        var approve = $('#txtapprove option:selected').val();
+    }
+
+    function ViewDetails(Id) {
+        $.ajax({
+            type: "POST",
+            dataType: 'json',
+            url: '/Surveyor/B_Details?Id='+Id,
+            dataType: "json",
+            
+            success: function (data) {
+                if (data.GridHtml != "") {
+                    document.getElementById("annual").innerHTML = data.GridHtml;
+                    document.getElementById("annual").style.display = "block";
+                    $('#resultgrade').hide();
+                }
+                else {
+                    document.getElementById("error").innerHTML = "result not available ";
+
+                }
+            },
+            error: function () {
+                //alert("Error while showing data");
+            }
+        })
+    }
+
+</script>

@@ -1,0 +1,89 @@
+.head-bg {
+    background: #142448;
+    color: #fff !important;
+    /* border-radius: 4px; */
+        padding: 4px;
+}
+.profile {
+    font-size: 14px;
+    text-align: justify;
+}
+.tdcenter td {
+    text-align: center;
+}
+.bg-card {
+    background: #e1e1e1;
+}
+.themeclr {
+    color: #142448;
+    font-weight: 600;
+}
+.hesdclr {
+    color: #142448;
+    text-align: center;
+}
+.fw-500 {
+    font-weight: 500;
+}
+table td {
+    font-size: 14px;
+    color: #1d1d1d;
+}
+th {
+    font-weight: 500;
+    color: #1d1d1d;
+}
+.new-table {
+    display: table;
+    width: 100%;
+}
+.tdbold {
+    font-weight: 600;
+}
+.table td, .table th {
+ padding: .25rem;
+ padding-left: 6px;
+}
+.desc {
+    display: inline-block;
+    width: 300px;
+    border: none;
+}
+.desc1 {
+    display: inline-block;
+    width: 100px;
+    border: none;
+}
+.gren-row{
+    background: #9bc29b;
+}
+.yel-row{
+        background: #f3e1bf;
+}
+.inputs{
+   background: none;
+    border: none;
+    text-align: left;
+}
+.inputs1{
+    background: none; border: none; text-align: left; width: 100%;}
+    .inputs2 {
+    background: none;
+    border: none;
+    text-align: center;
+}
+.inputs-cmnt {
+    background: none;
+    border: none;
+    text-align: left;
+    width: 80%;
+}
+.width20{
+    width: 20%
+}
+.attendance-td{
+
+    font-size: 16px;
+    font-weight: 500;
+
+}

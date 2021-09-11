@@ -1,0 +1,351 @@
+D:\.Net Projects\PMAYProject\PMAYProject\obj\Debug\PMAYProject.csproj.CoreCompileInputs.cache
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAYProject.dll.config
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAYProject.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAYProject.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\csc.exe
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\csc.exe.config
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\csc.rsp
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\csi.exe
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\csi.exe.config
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\csi.rsp
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.AppContext.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Collections.Immutable.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Console.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.IO.Compression.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.IO.FileSystem.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.IO.Pipes.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.AccessControl.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.Claims.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.ValueTuple.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Xml.XPath.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\vbc.exe
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\vbc.exe.config
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\vbc.rsp
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\VBCSCompiler.exe
+D:\.Net Projects\PMAYProject\PMAYProject\bin\roslyn\VBCSCompiler.exe.config
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Antlr3.Runtime.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\EntityFramework.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\EntityFramework.SqlServer.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Google.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Newtonsoft.Json.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Owin.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Helpers.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Mvc.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Optimization.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Razor.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.WebPages.Deployment.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.WebPages.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.WebPages.Razor.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\WebGrease.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Helpers.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Mvc.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Optimization.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.Razor.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.WebPages.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.WebPages.Deployment.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\System.Web.WebPages.Razor.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Newtonsoft.Json.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Antlr3.Runtime.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\EntityFramework.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\EntityFramework.SqlServer.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Google.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.Net Projects\PMAYProject\PMAYProject\obj\Debug\PMAYProject.csproj.CopyComplete
+D:\.Net Projects\PMAYProject\PMAYProject\obj\Debug\PMAYProject.dll
+D:\.Net Projects\PMAYProject\PMAYProject\obj\Debug\PMAYProject.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\obj\Debug\PMAYProject.csprojAssemblyReference.cache
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Application.Service.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Infra.Data.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAY.Domain.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAY.Dto.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Unity.Abstractions.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Unity.Container.dll
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Application.Service.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Infra.Data.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAY.Domain.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\PMAY.Dto.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Unity.Abstractions.pdb
+D:\.Net Projects\PMAYProject\PMAYProject\bin\Unity.Container.pdb
+F:\PMAYS\PMAYProject\bin\PMAYProject.dll.config
+F:\PMAYS\PMAYProject\bin\PMAYProject.dll
+F:\PMAYS\PMAYProject\bin\PMAYProject.pdb
+F:\PMAYS\PMAYProject\bin\roslyn\csc.exe
+F:\PMAYS\PMAYProject\bin\roslyn\csc.exe.config
+F:\PMAYS\PMAYProject\bin\roslyn\csc.rsp
+F:\PMAYS\PMAYProject\bin\roslyn\csi.exe
+F:\PMAYS\PMAYProject\bin\roslyn\csi.exe.config
+F:\PMAYS\PMAYProject\bin\roslyn\csi.rsp
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PMAYS\PMAYProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PMAYS\PMAYProject\bin\roslyn\System.AppContext.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Collections.Immutable.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Console.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.IO.Compression.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.IO.FileSystem.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.IO.Pipes.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Reflection.Metadata.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.AccessControl.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.Claims.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Security.Principal.Windows.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.ValueTuple.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Xml.XPath.dll
+F:\PMAYS\PMAYProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PMAYS\PMAYProject\bin\roslyn\vbc.exe
+F:\PMAYS\PMAYProject\bin\roslyn\vbc.exe.config
+F:\PMAYS\PMAYProject\bin\roslyn\vbc.rsp
+F:\PMAYS\PMAYProject\bin\roslyn\VBCSCompiler.exe
+F:\PMAYS\PMAYProject\bin\roslyn\VBCSCompiler.exe.config
+F:\PMAYS\PMAYProject\bin\Antlr3.Runtime.dll
+F:\PMAYS\PMAYProject\bin\Application.Service.dll
+F:\PMAYS\PMAYProject\bin\EntityFramework.dll
+F:\PMAYS\PMAYProject\bin\EntityFramework.SqlServer.dll
+F:\PMAYS\PMAYProject\bin\Infra.Data.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Google.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PMAYS\PMAYProject\bin\Microsoft.Web.Infrastructure.dll
+F:\PMAYS\PMAYProject\bin\Newtonsoft.Json.dll
+F:\PMAYS\PMAYProject\bin\Owin.dll
+F:\PMAYS\PMAYProject\bin\PMAY.Domain.dll
+F:\PMAYS\PMAYProject\bin\PMAY.Dto.dll
+F:\PMAYS\PMAYProject\bin\System.Web.Helpers.dll
+F:\PMAYS\PMAYProject\bin\System.Web.Mvc.dll
+F:\PMAYS\PMAYProject\bin\System.Web.Optimization.dll
+F:\PMAYS\PMAYProject\bin\System.Web.Razor.dll
+F:\PMAYS\PMAYProject\bin\System.Web.WebPages.Deployment.dll
+F:\PMAYS\PMAYProject\bin\System.Web.WebPages.dll
+F:\PMAYS\PMAYProject\bin\System.Web.WebPages.Razor.dll
+F:\PMAYS\PMAYProject\bin\WebGrease.dll
+F:\PMAYS\PMAYProject\bin\Unity.Abstractions.dll
+F:\PMAYS\PMAYProject\bin\Unity.Container.dll
+F:\PMAYS\PMAYProject\bin\Application.Service.pdb
+F:\PMAYS\PMAYProject\bin\Infra.Data.pdb
+F:\PMAYS\PMAYProject\bin\PMAY.Domain.pdb
+F:\PMAYS\PMAYProject\bin\PMAY.Dto.pdb
+F:\PMAYS\PMAYProject\bin\System.Web.Helpers.xml
+F:\PMAYS\PMAYProject\bin\System.Web.Mvc.xml
+F:\PMAYS\PMAYProject\bin\System.Web.Optimization.xml
+F:\PMAYS\PMAYProject\bin\System.Web.Razor.xml
+F:\PMAYS\PMAYProject\bin\System.Web.WebPages.xml
+F:\PMAYS\PMAYProject\bin\System.Web.WebPages.Deployment.xml
+F:\PMAYS\PMAYProject\bin\System.Web.WebPages.Razor.xml
+F:\PMAYS\PMAYProject\bin\Newtonsoft.Json.xml
+F:\PMAYS\PMAYProject\bin\Antlr3.Runtime.pdb
+F:\PMAYS\PMAYProject\bin\EntityFramework.xml
+F:\PMAYS\PMAYProject\bin\EntityFramework.SqlServer.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Google.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PMAYS\PMAYProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PMAYS\PMAYProject\bin\Unity.Abstractions.pdb
+F:\PMAYS\PMAYProject\bin\Unity.Container.pdb
+F:\PMAYS\PMAYProject\obj\Debug\PMAYProject.csprojAssemblyReference.cache
+F:\PMAYS\PMAYProject\obj\Debug\PMAYProject.csproj.CoreCompileInputs.cache
+F:\PMAYS\PMAYProject\obj\Debug\PMAYProject.csproj.CopyComplete
+F:\PMAYS\PMAYProject\obj\Debug\PMAYProject.dll
+F:\PMAYS\PMAYProject\obj\Debug\PMAYProject.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAYProject.dll.config
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAYProject.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAYProject.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\csc.exe
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\csc.exe.config
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\csc.rsp
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\csi.exe
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\csi.exe.config
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\csi.rsp
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.AppContext.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Collections.Immutable.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Console.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.IO.Compression.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.IO.FileSystem.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.IO.Pipes.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.AccessControl.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.Claims.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.ValueTuple.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Xml.XPath.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\vbc.exe
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\vbc.exe.config
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\vbc.rsp
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\VBCSCompiler.exe
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\roslyn\VBCSCompiler.exe.config
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Antlr3.Runtime.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Application.Service.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\EntityFramework.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\EntityFramework.SqlServer.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Infra.Data.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Google.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Newtonsoft.Json.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Owin.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAY.Domain.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAY.Dto.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Helpers.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Mvc.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Optimization.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Razor.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.WebPages.Deployment.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.WebPages.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.WebPages.Razor.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\WebGrease.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Unity.Abstractions.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Unity.Container.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Application.Service.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Infra.Data.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAY.Domain.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\PMAY.Dto.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Helpers.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Mvc.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Optimization.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.Razor.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.WebPages.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.WebPages.Deployment.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\System.Web.WebPages.Razor.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Newtonsoft.Json.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Antlr3.Runtime.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\EntityFramework.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\EntityFramework.SqlServer.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Google.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Unity.Abstractions.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\bin\Unity.Container.pdb
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\obj\Debug\PMAYProject.csprojAssemblyReference.cache
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\obj\Debug\PMAYProject.csproj.CoreCompileInputs.cache
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\obj\Debug\PMAYProject.csproj.CopyComplete
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\obj\Debug\PMAYProject.dll
+D:\.Net Projects\PMAYProjectAzureServer\PMAYProject\PMAYProject\obj\Debug\PMAYProject.pdb
